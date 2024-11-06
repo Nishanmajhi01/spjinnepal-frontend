@@ -6,7 +6,7 @@ const DefaultLayout = ({children}) => {
   return (
     <div className='default-layout'>
         <header className='header'> <Header/></header>
-        <main className="main">{children}</main>
+        <main className="main mt-5">{children}</main>
         <footer className="footer"> <Footer/></footer>
     </div>
   )

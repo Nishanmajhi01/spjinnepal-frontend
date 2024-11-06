@@ -9,17 +9,21 @@ export const Header = () => {
    variant='dark'
    bg='dark'
    expand='md'
-   
+   className='px-3 fixed-top'
    >
-    <Navbar.Brand><img src={logo} alt='logo' width="70px"/></Navbar.Brand>
+    <Navbar.Brand className='text-white text-center'>
+        <img src={logo} alt='logo' width="60px"/>
+        <h2 className='mt-2'>श्री प्राणनाथ ज्ञानपीठ</h2>
+    </Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav"/>
     <Navbar.Collapse id="basic-navbar-nav">
         <Nav className='ms-auto'>
             <Nav.Link href="/dashboard">Home</Nav.Link>
-            <Nav.Link href="/">Our Books</Nav.Link>
-            <Nav.Link href="/dashboard">Recent Videos</Nav.Link>
-            <Nav.Link href="/dashboard">Contact</Nav.Link>
-            <Nav.Link href="/dashboard">About us</Nav.Link>
+            <Nav.Link href="/books">Our Books</Nav.Link>
+            <Nav.Link href="/recent-videos">Recent Videos</Nav.Link>
+            <Nav.Link href="/recent-videos">Search Wani</Nav.Link>
+            <Nav.Link href="/contact">Contact</Nav.Link>
+            <Nav.Link href="/about-us">About us</Nav.Link>
         </Nav>
     </Navbar.Collapse>
    </Navbar>
