@@ -2,22 +2,26 @@
     {
         "id":"1",
        "imageUrl": "/assets/img/p1.jpg",
-        "tittle":"श्री बीतक"
+        "tittle":"श्री बीतक",
+        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf"
     },
     {
         "id":"1",
        "imageUrl": "/assets/img/p1.jpg",
-        "tittle":"श्री तारतम वाणी"
+        "tittle":"श्री तारतम वाणी",
+        "pdfUrl":"/assets/data/tartam-wani-pdf"
     }
     ,
     {
         "id":"1",
        "imageUrl": "/assets/img/p1.jpg",
-        "tittle":"साहित्य"
+        "tittle":"साहित्य",
+        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf"
     },
     {
         "id":"1",
        "imageUrl": "/assets/img/p1.jpg",
-        "tittle":"अंग्रेज़ी साहित्य"
+        "tittle":"अंग्रेज़ी साहित्य",
+        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf"
     }
 ]

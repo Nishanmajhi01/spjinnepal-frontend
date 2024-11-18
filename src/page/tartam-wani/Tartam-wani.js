@@ -1,9 +1,16 @@
 import React from "react";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
+import { Container, Row, Col, Card} from "react-bootstrap";
 import { PageBreadcrumb } from "../../components/breadcrumb/Breadcrumb.comp";
 import data from "../../assets/data/tartam-wani.json";
 
 export const Tartam = () => {
+
+  const handlePdfOpen = (pdfUrl) => {
+    // Open the PDF in a new tab directly
+    window.open(process.env.PUBLIC_URL + pdfUrl, "_blank");
+  };
+
+
   return (
     <Container>
       <Row className="mt-4">
@@ -23,8 +30,12 @@ export const Tartam = () => {
               <Card.Body className="d-flex flex-column align-items-center justify-content-center">
                 <Card.Title>{item.title}</Card.Title>
                 <div className="d-flex justify-content-between w-50">
-                  <Card.Link href="#">टिका</Card.Link>
-                  <Card.Link href="#">मुलवाणी</Card.Link>
+                  <Card.Link as="button" onClick={() => handlePdfOpen(item.pdfUrls[1])}>
+                    टिका
+                  </Card.Link>
+                  <Card.Link as="button" onClick={() => handlePdfOpen(item.pdfUrls[0])}>
+                    मुलवाणी
+                  </Card.Link>
                 </div>
               </Card.Body>
             </Card>

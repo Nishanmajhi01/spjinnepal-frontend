@@ -20,10 +20,10 @@ export const Header = () => {
         <Nav className='ms-auto'>
             <Nav.Link href="/dashboard">Home</Nav.Link>
             <Nav.Link href="/books">Our Books</Nav.Link>
-            <Nav.Link href="/recent-videos">Recent Videos</Nav.Link>
-            <Nav.Link href="/recent-videos">Search Wani</Nav.Link>
+            <Nav.Link href="/video-gallery">Videos Gallery</Nav.Link>
+            <Nav.Link href="/search-books">Search Books</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
-            <Nav.Link href="/about-us">About us</Nav.Link>
+            <Nav.Link href="/dashboard">About us</Nav.Link>
         </Nav>
     </Navbar.Collapse>
    </Navbar>

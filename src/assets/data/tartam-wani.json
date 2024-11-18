@@ -3,99 +3,93 @@
     "id": "1",
     "title": "रास",
     "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "pdfUrls": ["/assets/tartam-wani-pdf/raas.pdf", "/assets/tartam-wani-pdf/raas_tika.pdf"]
   },
   {
     "id": "2",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "प्रकाश गुजराती",
+    "imageUrl": "/assets/img/prakash.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/prakaas_guj.pdf", "/assets/tartam-wani-pdf/prakaas_guj_tika.pdf"]
   },
   {
     "id": "3",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "खटरुती",
+    "imageUrl": "/assets/img/khatruti.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/khatruti.pdf", "/assets/tartam-wani-pdf/khatruti_tika.pdf"]
   },
   {
     "id": "4",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "कलश गुजराती",
+    "imageUrl": "/assets/img/kalas_gujrati.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/kalas_guj.pdf", "/assets/tartam-wani-pdf/kalas_guj_tika.pdf"]
   },{
     "id": "5",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "प्रकाश हिन्दुस्तानी",
+    "imageUrl": "/assets/img/prakash.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/prakash_hind.pdf", "/assets/tartam-wani-pdf/prakash_hind.pdf"]
   },
   {
     "id": "6",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "कलश हिन्दुस्तानी",
+    "imageUrl": "/assets/img/kalas.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/kalas_hind.pdf", "/assets/tartam-wani-pdf/kalas_hind_tika.pdf"]
   },
   {
     "id": "7",
-    "title": "रास",
+    "title": "सनन्ध",
     "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "pdfUrls": ["/assets/tartam-wani-pdf/sanandh.pdf", "/assets/tartam-wani-pdf/sanandh.pdf"]
   },
   {
     "id": "8",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "किरन्तन",
+    "imageUrl": "/assets/img/kirantan.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/kirantan.pdf", "/assets/tartam-wani-pdf/kirantan.pdf"]
   },{
     "id": "9",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "खुलासा",
+    "imageUrl": "/assets/img/khulasa.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/khulasa.pdf", "/assets/tartam-wani-pdf/khulasa.pdf"]
   },
   {
     "id": "10",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "खिलवत",
+    "imageUrl": "/assets/img/khilwat.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/khilwat.pdf", "/assets/tartam-wani-pdf/khilwat_tika.pdf"]
   },
   {
     "id": "11",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "परिकरमा",
+    "imageUrl": "/assets/img/parikarma.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/parikarma.pdf", "/assets/tartam-wani-pdf/parikarma.pdf"]
   },
   {
     "id": "12",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "सागर",
+    "imageUrl": "/assets/img/sagar.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/saagar.pdf", "/assets/tartam-wani-pdf/saagar_tika.pdf"]
   },{
     "id": "13",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "सिनगार",
+    "imageUrl": "/assets/img/singhar.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/singaar.pdf", "/assets/tartam-wani-pdf/singaar.pdf"]
   },
   {
     "id": "14",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "title": "सिन्धी",
+    "imageUrl": "/assets/img/sindhi.png",
+    "pdfUrls": ["/assets/tartam-wani-pdf/sindhi.pdf", "/assets/tartam-wani-pdf/sindhi_tika.pdf"]
   },
   {
     "id": "15",
-    "title": "रास",
+    "title": "मारफत सागर",
     "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "pdfUrls": ["/assets/tartam-wani-pdf/maarfat_saagar.pdf", "/assets/tartam-wani-pdf/maarfat_saagar.pdf"]
   },
   {
     "id": "16",
-    "title": "रास",
+    "title": "कयामतनामा",
     "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
-  },
-  {
-    "id": "17",
-    "title": "रास",
-    "imageUrl": "/assets/img/raas.png",
-    "pdfUrls": ["/assets/pdf/raas.pdf", "/assets/pdf/raas_tika.pdf"]
+    "pdfUrls": ["/assets/tartam-wani-pdf/chhota_kayamatnama.pdf", "/assets/tartam-wani-pdf/bada_kayamatnama.pdf"]
   }
 ]
