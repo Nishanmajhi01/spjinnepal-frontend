@@ -77,8 +77,8 @@ const Videos = ({ onVideoSelect }) => {
 
   return (
     <Row>
-    {videos.map((video, index) => (
-      <Col xs={12} sm={4} md={4} lg={4} className="my-3" key={index}>
+    {videos.map((video, id) => (
+      <Col xs={12} sm={4} md={4} lg={4} className="my-3" key={id}>
         <div
           className="video-thumbnail"
           onClick={() => handleVideoSelect(video.videoUrl, video.title)}

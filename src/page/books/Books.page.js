@@ -2,13 +2,27 @@ import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import { PageBreadcrumb } from "../../components/breadcrumb/Breadcrumb.comp";
 import data from "../../assets/data/books-name.json";
+import { useNavigate } from "react-router-dom";
 
 export const Books = () => {
-  
-  // Function to open the PDF in a new tab
-  const handlePdfOpen = (pdfUrl) => {
-    window.open(pdfUrl, "_blank");
-  };
+
+  const navigate = useNavigate();
+
+  const handleItemClick = (item) =>{
+    if (item.type === "tartam-wani"){
+      navigate("/tartam-Wani");
+    }
+    else if (item.type === "sahitya"){
+      navigate("/sahitya");
+    }
+    else if (item.type === "english-books"){
+      navigate("/english-books");
+    }
+    
+    else{
+      window.open(process.env.PUBLIC_URL + item.pdfUrl, "_blank");
+    }
+  }
 
   return (
     <Container>
@@ -29,7 +43,7 @@ export const Books = () => {
                 <Card.Title>{item.tittle}</Card.Title>
                 <Button
                   variant="primary"
-                  onClick={() => handlePdfOpen(process.env.PUBLIC_URL + item.pdfUrl)}
+                  onClick={() => handleItemClick(item)}
                 >
                   View
                 </Button>

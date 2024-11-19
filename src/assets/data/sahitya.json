@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "रास",
+    "imageUrl": "/assets/img/sahitya-img/arsha.png",
+    "pdfUrls": "/assets/sahitya/arsh_jyoti.pdf"
+  },
+  {
+    "id": "2",
+    "title": "रास",
+    "imageUrl": "/assets/img/sahitya-img/arsha.png",
+    "pdfUrls": "/assets/sahitya/arsh_jyoti.pdf"
+  },
+  {
+    "id": "3",
+    "title": "रास",
+    "imageUrl": "/assets/img/sahitya-img/arsha.png",
+    "pdfUrls": "/assets/sahitya/arsh_jyoti.pdf"
+  }
+]

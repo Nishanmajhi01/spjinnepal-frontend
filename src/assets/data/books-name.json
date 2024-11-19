@@ -3,25 +3,29 @@
         "id":"1",
        "imageUrl": "/assets/img/p1.jpg",
         "tittle":"श्री बीतक",
-        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf"
+        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf",
+         "type":"bitak"
     },
     {
-        "id":"1",
+        "id":"2",
        "imageUrl": "/assets/img/p1.jpg",
         "tittle":"श्री तारतम वाणी",
-        "pdfUrl":"/assets/data/tartam-wani-pdf"
+        "pdfUrl":"/assets/data/tartam-wani-pdf",
+        "type":"tartam-wani"
     }
     ,
     {
-        "id":"1",
+        "id":"3",
        "imageUrl": "/assets/img/p1.jpg",
         "tittle":"साहित्य",
-        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf"
+        "pdfUrl":"/assets/data/sahityaa",
+         "type":"sahitya"
     },
     {
-        "id":"1",
+        "id":"4",
        "imageUrl": "/assets/img/p1.jpg",
         "tittle":"अंग्रेज़ी साहित्य",
-        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf"
+        "pdfUrl":"/assets/bitak-pdf/beetak_tika.pdf",
+         "type":"english-books"
     }
 ]
